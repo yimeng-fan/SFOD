@@ -4,9 +4,11 @@
 
 
 
-This is the official implementation of the 'SFOD: Spiking Fusion Object Detection' .
+This is the official implementation of the 'SFOD: Spiking Fusion Object Detector' .
 
 ## Requirements
+
+<p align="center">
 
 |    Repository     | Version |
 | :---------------: | :-----: |
@@ -19,13 +21,11 @@ This is the official implementation of the 'SFOD: Spiking Fusion Object Detectio
 | Pytorch-lightning |  2.0.1  |
 |   SpikingJelly    | 0.0.12  |
 
+</p>
+
 ## Pretrained Checkpoints
 
-We provide the trained models in the pretrained folder; due to the upload size limit, we can only offer the best-performing model.
-
-Pretrained backbone network:  [DenseNet121-16.ckpt](pretrained\DenseNet121-16.ckpt) , [DenseNet121-24.ckpt](pretrained\DenseNet121-24.ckpt) 
-
-Pretrained SFOD: [SFOD.ckpt](pretrained\SFOD.ckpt) 
+We will provide the trained models in the pretrained folder, which will include pretrained backbone networks and pretrained SFOD.
 
 ## Required Data
 
