@@ -1,4 +1,4 @@
-#                           SFOD: Spiking Fusion Object Detection 
+#                           SFOD: Spiking Fusion Object Detector 
 
 ![Optional image alt text](figure.png)
 
