@@ -1,6 +1,8 @@
 #                           SFOD: Spiking Fusion Object Detection 
 
-![figure](.\figure.png)
+![Optional image alt text](figure.png)
+
+
 
 This is the official implementation of the 'SFOD: Spiking Fusion Object Detection' .
 
